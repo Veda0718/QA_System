@@ -5,6 +5,7 @@ _“When is Layla planning her trip to London?”_ or _“How many cars does Vik
 accessible here:  https://qa-system-dqgp.onrender.com/docs
 
 ## Project Structure
+```bash
 .
 ├── app/
 │ ├── main.py # FastAPI service exposing /ask endpoint
@@ -14,6 +15,7 @@ accessible here:  https://qa-system-dqgp.onrender.com/docs
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
+```
 
 ## Tech Stack
 Python  
